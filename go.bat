@@ -1,0 +1,1 @@
+ssh -i "D:\workspace\keystore\jookershop.pem" ec2-user@www.jookershop.com

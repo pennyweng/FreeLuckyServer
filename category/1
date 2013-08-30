@@ -1,0 +1,47 @@
+[
+    {
+        "id": "b1",
+        "title": "台北遠東飯店遠東Café《平日自助午或晚餐券》二張",
+        "desc": "位於香格里拉台北遠東國際大飯店六樓的遠東Café，以百分百美食之旅為訴求，提供匯集全球時尚餐點的十大主題美食，已含一成服務費  週五晚餐不適用,務請事先訂位，並於用餐前出示本券",
+        "participator": 0,
+        "target": 7200,
+        "img": "http://www.jookershop.com:8080/img/b1.jpg",
+        "opendate":0
+    },
+    {
+        "id": "b2",
+        "title": "【台北國賓大飯店】明園西餐廳2人自助式午或晚餐(一套2張)",
+        "desc": "超豪華海鮮季無限量供應,標榜新鮮、多樣化的明園西餐廳自助餐美食，在歐式優雅風格中，融匯中西式佳餚及現點現做現場烹調等上百道自助餐美味",
+        "participator": 0,
+        "target": 6600,
+        "img": "http://www.jookershop.com:8080/img/b2.jpg",
+        "opendate":0
+    },    
+    {
+        "id": "b3",
+        "title": "台北國賓大飯店12F川菜廳 川蜀風韻套餐雙人份",
+        "desc": "國內川菜正宗優良口碑, 無使用期限",
+        "participator": 0,
+        "target": 11200,
+        "img": "http://www.jookershop.com:8080/img/b3.jpg",
+        "opendate":0
+    },
+    {
+        "id": "b4",
+        "title": "【君品酒店】 西餐廳 自助式下午茶雙人券(2張入)",
+        "desc": "6F 雲軒西餐廳, 憑券一張可享平日自助式下午茶二客",
+        "participator": 0,
+        "target": 11200,
+        "img": "http://www.jookershop.com:8080/img/b4.jpg",
+        "opendate":0
+    },
+    {
+        "id": "b5",
+        "title": "【晶華集團】信義誠品-泰市場 泰式料理海鮮餐廳 四人券(1入)",
+        "desc": "泰式料理無限享用",
+        "participator": 0,
+        "target": 10800,
+        "img": "http://www.jookershop.com:8080/img/b5.jpg",
+        "opendate":0
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "a1",
+        "title": "HTC One mini (601e) 迷你版智慧型手機(簡配)",
+        "desc": "極致輕巧設計，承襲新HTC One鋁合金超薄機身質感設計和引以為傲的多項得獎創新功能，HTC One mini擁有精巧的4.3吋螢幕和更加輕薄的外型",
+        "participator": 0,
+        "target": 64000,
+        "img": "http://www.jookershop.com:8080/img/a1.png",
+        "opendate":0
+    },
+    {
+        "id": "a2",
+        "title": "Samsung Galaxy Mega (I9200) 6.3吋雙核智慧機",
+        "desc": "SAMSUNG GALAXY Mega 6.3 運行 Android 4.2 Jelly Bean 作業系統，配備 Nature UX TouchWiz 操作介面，內建 1.7GHz 雙核心處理器與 1.5GB RAM / 8GB ROM，支援 microSD 記憶卡擴充功能",
+        "participator": 0,
+        "target": 64000,
+        "img": "http://www.jookershop.com:8080/img/a2.jpg",
+        "opendate":0
+    },    
+    {
+        "id": "a3",
+        "title": "SONY Xperia ZL C6502 精巧5吋四核心智慧機",
+        "desc": "今年Sony 另一款四核旗艦機Xperia ZL，基本上規格與Xperia Z 相同，但螢幕採用極窄邊框設計",
+        "participator": 0,
+        "target": 64000,
+        "img": "http://www.jookershop.com:8080/img/a3.jpg",
+        "opendate":0
+    },
+    {
+        "id": "a4",
+        "title": "華碩 ASUS PadFone 2 16GB 尊爵黑",
+        "desc": "Qualcomm S4 1.5GHz四核心 ☆ 4.7吋Super IPS+視網膜IGZO面板 ☆ 1300萬畫素鏡頭 ☆ 內建32G儲存空間",
+        "participator": 0,
+        "target": 64000,
+        "img": "http://www.jookershop.com:8080/img/a4.jpg",
+        "opendate":0
+    },
+    {
+        "id": "a5",
+        "title": "Nokia Lumia 510多彩智慧型芒果機",
+        "desc": "吋觸控TFT螢幕, 支援A-GPS、Wi-Fi無線網路,500萬畫素相機鏡頭、自動對焦,Windows Phone 7.5 Mango作業系統",
+        "participator": 0,
+        "target": 25000,
+        "img": "http://www.jookershop.com:8080/img/a5.jpg",
+        "opendate":0
+    }
+]

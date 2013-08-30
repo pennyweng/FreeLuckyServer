@@ -1,0 +1,1 @@
+scp -i "D:\workspace\keystore\jookershop.pem" build.zip ec2-user@www.jookershop.com:build.zip
